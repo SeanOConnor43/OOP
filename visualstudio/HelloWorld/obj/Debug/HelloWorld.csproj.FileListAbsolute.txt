@@ -1,0 +1,6 @@
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\sean.oconnor33\Source\Repos\OOP\visualstudio\HelloWorld\obj\Debug\HelloWorld.pdb
